@@ -26,7 +26,7 @@ stack::stack(char c, size_t size)
 {
 	who = c;
 	tos = 0;
-	size = size;
+	this->size = size;
 	stck = new char[size];
 }
 
