@@ -69,7 +69,7 @@ void showstack(stack& ob)
 stack loadstack()
 {
 	stack theStack(SIZE);
-	for(char ch='A'; ch<='Z'; ch++)
+	for(char ch='a'; ch<='z'; ch++)
 	{
 		theStack.push(ch);
 	}
