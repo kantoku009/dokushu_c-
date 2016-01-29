@@ -1,6 +1,6 @@
 /**
  * @file	trial.cpp
- * @brief	独習C++ 練習問題 3.2 1
+ * @brief	独習C++ 理解度チェック 5
  */
 #include <iostream>
 using namespace std;
